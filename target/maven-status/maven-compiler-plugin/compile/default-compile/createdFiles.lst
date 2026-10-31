@@ -1,0 +1,7 @@
+com/vit/resultportal/dto/StudentResultResponse.class
+com/vit/resultportal/VitResultPortalApplication.class
+com/vit/resultportal/controller/ResultController.class
+com/vit/resultportal/dto/StudentResultResponse$SubjectResult.class
+com/vit/resultportal/service/ResultService.class
+com/vit/resultportal/repository/StudentResultRepository.class
+com/vit/resultportal/model/StudentResult.class
